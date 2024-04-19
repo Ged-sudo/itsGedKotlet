@@ -13,3 +13,8 @@ Hello 👋;
 </div>
 <img src="https://komarev.com/ghpvc/?username=Ged-sudo&style=flat-square&color=blue" alt=""/>
 </div>
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ged-sudo&theme=dark&background=000000)](https://git.io/streak-stats) </br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ged-sudo&layout=compact&theme=vision-friendly-dark)
